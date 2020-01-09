@@ -1,0 +1,7 @@
+
+const INCREMENT_NUM = 'INCREMENT_NUM'
+const CHANGE_NUM = 'CHANGE_NUM'
+
+export { 
+    INCREMENT_NUM,CHANGE_NUM
+}
